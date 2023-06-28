@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raveadd/static/css/main.24a2e8bd.css",
+    "main.js": "/raveadd/static/js/main.4e18ca9f.js",
+    "index.html": "/raveadd/index.html",
+    "main.24a2e8bd.css.map": "/raveadd/static/css/main.24a2e8bd.css.map",
+    "main.4e18ca9f.js.map": "/raveadd/static/js/main.4e18ca9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a2e8bd.css",
+    "static/js/main.4e18ca9f.js"
+  ]
+}
