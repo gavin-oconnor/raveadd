@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/raveadd/static/css/main.24a2e8bd.css",
-    "main.js": "/raveadd/static/js/main.4e18ca9f.js",
+    "main.css": "/raveadd/static/css/main.80f1b4e2.css",
+    "main.js": "/raveadd/static/js/main.61c78f1c.js",
     "index.html": "/raveadd/index.html",
-    "main.24a2e8bd.css.map": "/raveadd/static/css/main.24a2e8bd.css.map",
-    "main.4e18ca9f.js.map": "/raveadd/static/js/main.4e18ca9f.js.map"
+    "main.80f1b4e2.css.map": "/raveadd/static/css/main.80f1b4e2.css.map",
+    "main.61c78f1c.js.map": "/raveadd/static/js/main.61c78f1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.24a2e8bd.css",
-    "static/js/main.4e18ca9f.js"
+    "static/css/main.80f1b4e2.css",
+    "static/js/main.61c78f1c.js"
   ]
 }
